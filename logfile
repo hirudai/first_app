@@ -1,0 +1,15 @@
+LOG:  database system was shut down at 2015-06-05 23:51:18 JST
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+FATAL:  role "root" does not exist
+FATAL:  role "root" does not exist
+FATAL:  role "root" does not exist
+FATAL:  role "root" does not exist
+FATAL:  database "hirudai" does not exist
+ERROR:  syntax error at or near "createuser" at character 1
+STATEMENT:  createuser -s -P firstapp;
+FATAL:  role "firstapp" does not exist
+FATAL:  role "firstapp" does not exist
+FATAL:  database "hirudai" does not exist
+FATAL:  database "hirudai" does not exist
+FATAL:  database "hirudai" does not exist
